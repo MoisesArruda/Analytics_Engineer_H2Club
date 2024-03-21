@@ -90,7 +90,7 @@ podman run --name mysql -e MYSQL_ROOT_PASSWORD=password -p 3307:3306 -d mysql:5.
 
 8. Conecte-se ao MySql pelo DBeaver:
 
-![db connect](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/blob/main/images/MySql_connect.pnggit )
+![db connect](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/blob/main/images/MySql_connect.png)
 
 9. Crie os Schemas e as tabelas necessárias para este projeto:
 
