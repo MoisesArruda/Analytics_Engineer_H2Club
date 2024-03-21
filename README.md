@@ -37,7 +37,7 @@ pyenv local 3.10.10
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/MoisesArruda/ETL_BixTecnologia
+git clone https://github.com/MoisesArruda/Analytics_Engineer_H2Club
 cd Analytics_Engineer
 ```
 
@@ -86,7 +86,7 @@ podman run --name mysql -e MYSQL_ROOT_PASSWORD=password -p 3307:3306 -d mysql:5.
 
 8. Conecte-se ao MySql pelo DBeaver:
 
-![db connect](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/blob/main/images/MySql_connect.png)
+![db connect](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/blob/main/images/MySql_connect.pnggit )
 
 9. Crie os Schemas e as tabelas necessárias para este projeto:
 
