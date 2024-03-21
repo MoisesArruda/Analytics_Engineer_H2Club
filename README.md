@@ -2,6 +2,10 @@
 
 Este repositório contém o código e a documentação para a construção de um projeto de ETL (Extração, Transformação e Carga).
 
+* [Acesse aqui](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/tree/main/sql) a página de explicação das queries realizadas para responder as perguntas
+
+* [Acesse aqui](https://github.com/MoisesArruda/Analytics_Engineer_H2Club/tree/main/src) a página de explicação dos scripts python.
+
 ## Tecnologias Utilizadas:
 
 **DBeaver** : Ferramenta que permite acessar diferentes tipos de banco de dados.
